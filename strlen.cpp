@@ -1,7 +1,15 @@
 /**
- * @brief Two variations on the C/C++ strlen() function
+ * @file strlen.cpp
+ * @author Matthew Darby
+ * @brief two variations on the C/C++ strlen() function
+ * @version 0.1
+ * @date 2020-02-26
+ * 
+ * @copyright Copyright (c) 2020
  * 
  */
+
+
 /**
  * @brief loop through looking for '0' 
  * If '\0' is not found, increment a counter variable by one
